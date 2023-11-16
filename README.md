@@ -2,7 +2,7 @@
 
 **Description:**
 
-This project is a simple task management application with a Flask backend server and a Vue.js frontend. It allows users to create, edit, and delete tasks.
+This project is a simple task management application with a Flask backend server and a React.js frontend. It allows users to create, edit, and delete tasks.
 
 ## Table of Contents
 
@@ -12,7 +12,6 @@ This project is a simple task management application with a Flask backend server
   - [Installation](#installation)
 - [Usage](#usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Features
 
