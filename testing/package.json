@@ -1,0 +1,31 @@
+{
+  "name": "communecte",
+  "version": "1.0.0",
+  "description": "Communecte\r ## Objective 🏆\r Communecte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress": "npx cypress open",
+    "cypress:chrome": "npx cypress open --e2e --browser chrome",
+    "cypress:headless": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nijaaouikhalil/communecte.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nijaaouikhalil/communecte/issues"
+  },
+  "homepage": "https://github.com/nijaaouikhalil/communecte#readme",
+  "devDependencies": {
+    "@types/mocha": "^10.0.0",
+    "typescript": "^4.8.4"
+  },
+  "dependencies": {
+    "react-router-dom": "^6.4.2",
+    "cypress": "^10.10.0"
+  }
+  
+}

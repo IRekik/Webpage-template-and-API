@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "target": "es6",
+    "lib": ["es6", "dom"],
+    "types": [
+      // load Cypress global type
+      "cypress"
+    ]
+  },
+  "include": [
+    // process only spec files
+    "**/*.spec.ts"
+  ]
+}

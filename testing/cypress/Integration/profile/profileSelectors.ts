@@ -1,0 +1,1 @@
+export const profileNavigationButton = '[data-testid="header-profile-link"]'
