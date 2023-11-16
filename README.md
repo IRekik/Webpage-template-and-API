@@ -34,10 +34,10 @@ Make sure you have the following installed:
 
 1. **Clone the repository:**
 
-   ```bash
-   git clone https://github.com/yourusername/task-management-app.git
-   cd task-management-app
-   ```
+  ```bash
+  git clone https://github.com/yourusername/task-management-app.git
+  cd task-management-app
+  ```
 2. Set up the backend:
 
   ```bash
@@ -63,7 +63,7 @@ Make sure you have the following installed:
   # Install frontend dependencies
   npm install
   ```
-##Usage
+## Usage
 1. Run the backend server:
 
   ```bash
