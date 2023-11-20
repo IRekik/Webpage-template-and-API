@@ -35,7 +35,7 @@ Make sure you have the following installed:
 1. **Clone the repository:**
 
   ```bash
-  git clone [https://github.com/IRekik/task-management-app.git](https://github.com/IRekik/Webpage-template-and-API.git)
+  git clone https://github.com/IRekik/Webpage-template-and-API.git
   cd task-management-app
   ```
 2. Set up the backend:
